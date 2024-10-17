@@ -11,8 +11,8 @@
   - id
   - git id
 - Prince Ojinnaka
-  - id: up2200950
-  - git id: ojnode
+  - up2200950
+  - ojnode
 - Thomas Fisher
   - up2207168
   - Semi-professional-username
