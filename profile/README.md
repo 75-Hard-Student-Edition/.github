@@ -14,8 +14,8 @@
   - id
   - git id
 - Thomas Fisher
-  - id
-  - git id
+  - up2207168
+  - Semi-professional-username
 - Widad Alli
   - id
   - git id
