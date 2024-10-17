@@ -11,8 +11,8 @@
   - id
   - git id
 - Prince Ojinnaka
-  - id
-  - git id
+  - id: up2200950
+  - git id: ojnode
 - Thomas Fisher
   - id
   - git id
