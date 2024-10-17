@@ -17,8 +17,8 @@
   - up2207168
   - Semi-professional-username
 - Widad Alli
-  - id
-  - git id
+  - up2246858
+  - WIDALI
 
 
 <!--
