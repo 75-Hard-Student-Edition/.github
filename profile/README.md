@@ -2,8 +2,8 @@
 
 ## Contributors
 - Ayo Osineye
-  - id
-  - git id
+  - up2215688
+  - ayomode12
 - Charlie Brewis
   - id
   - git id
