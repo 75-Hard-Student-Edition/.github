@@ -5,8 +5,8 @@
   - up2215688
   - ayomode12
 - Charlie Brewis
-  - id
-  - git id
+  - up2200678
+  - charlie-brewis
 - Dylan Bamgboye
   - id
   - git id
