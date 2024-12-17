@@ -17,8 +17,8 @@
   - up2207168
   - Semi-professional-username
 - Tires Islem
-  -up2299305
-  -tir3s
+  - up2299305
+  - tir3s
 - Widad Alli
   - up2246858
   - WIDALI
