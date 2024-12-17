@@ -8,8 +8,8 @@
   - up2200678
   - charlie-brewis
 - Dylan Bamgboye
-  - id
-  - git id
+  - up2246987
+  - upstudent987
 - Prince Ojinnaka
   - up2200950
   - ojnode
